@@ -1,1 +1,3 @@
-console.log("Hola usuario!");
+const nombreUsuario = prompt("Como te llamas?");
+alert(`Hola ${nombreUsuario}!`);
+
